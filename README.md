@@ -42,9 +42,8 @@ A simple Notes application built using Kotlin, Jetpack Compose, and Room Databas
 
 ## Screenshots
 ### Main Screen
-![Main Screen]<img width="1752" height="886" alt="front" src="https://github.com/user-attachments/assets/cafdc794-a798-4cf8-8115-950ec4aa4cd1" />
+![Main Screen]<img width="1752" height="886" alt="front" src="http://res.cloudinary.com/doeeoa5f1/image/upload/v1788892135/vjpiyywmqqb22pu5vbhb.png" />
 ### Add Note
-![Add Note]<img width="1752" height="877" alt="image" src="https://github.com/user-attachments/assets/addf88f5-79f4-4f21-9629-f43be402e01a" />
+![Add Note]<img width="1752" height="877" alt="image" src="http://res.cloudinary.com/doeeoa5f1/image/upload/v1788892211/a9ppomykufhvrzuavixf.png" />
 ### Room Persistence
-![Room Persistence]<img width="1626" height="837" alt="image" src="https://github.com/user-attachments/assets/1ada8342-d504-43f1-9c25-be0aeb18bfd1" />
-
+![Room Persistence]<img width="1626" height="837" alt="image" src="http://res.cloudinary.com/doeeoa5f1/image/upload/v1788892135/vjpiyywmqqb22pu5vbhb.png" />
